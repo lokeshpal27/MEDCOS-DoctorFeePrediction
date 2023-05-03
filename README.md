@@ -3,8 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=lokeshpal27&label=Profile%20views&color=0e75b6&style=flat" alt="lokeshpal27" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=lokeshpal27" alt="lokeshpal27" /></a> </p>
-
 - 🔭 I’m currently working on [MEDCOS Doctor Fee Prediction](https://github.com/lokeshpal27/MEDCOS-DoctorFeePrediction)
 
 - 🌱 I’m currently learning **Data Analysis**
