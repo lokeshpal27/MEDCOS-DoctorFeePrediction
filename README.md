@@ -10,6 +10,42 @@
 - 👨‍💻 All of my projects are available at [https://github.com/lokeshpal27?tab=repositories](https://github.com/lokeshpal27?tab=repositories)
 
 - 📄 Know about my experiences [https://drive.google.com/drive/folders/18jud7QpurCbv2gRI5YcppMu7GEULExvi?usp=sharing](https://drive.google.com/drive/folders/18jud7QpurCbv2gRI5YcppMu7GEULExvi?usp=sharing)
+# Doctor's Fee Prediction Model Project
+
+This is a collaborative project to create a model that can predict doctor's fees and deploy it.
+
+## Aim
+The aim of this project is to build a machine learning model that can accurately predict doctor's fees based on various factors such as years of experience, qualifications, location, and more.
+
+## Dataset
+We obtained our dataset by web scraping from a website called Practo. The initial dataset was very noisy, so we cleaned it using Power BI and Python libraries such as Pandas to ensure that it was ready for analysis and modeling.
+
+## Preprocessing and Modeling
+We performed preprocessing on the cleaned data using Python libraries such as Pandas to prepare it for modeling. We tried various models, and after experimenting, we found that the Gradient Descent model gave the best accuracy score.
+
+## Deployment
+We deployed the final model using Flask, a micro web framework written in Python. The model is now available to use through a simple user interface.
+
+## Conclusion
+Through our analysis, we discovered various insights, such as the most significant factors that influence doctor's fees. We hope that our model will be useful to both doctors and patients in making informed decisions.
+
+## Technology Used
+We scraped the data using Selenium and Beautiful Soup, appended many files into one, and cleaned the data using Power BI. We also used Python libraries such as Pandas for data preprocessing and Flask for model deployment.
+
+## Dependencies
+To run this project, you will need the following dependencies:
+
+- Python 3.x
+- Pandas
+- Selenium
+- Beautiful Soup
+- Power BI
+- Flask
+
+## Future Work
+In the future, we plan to improve the accuracy of the model by adding more features and exploring different algorithms. We also plan to enhance the user interface and add more visualization to provide better insights.
+
+
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
